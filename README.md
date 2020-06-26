@@ -1,6 +1,10 @@
 # 물고기 키우기
 
 [작품 소개]
+![image](https://user-images.githubusercontent.com/65941200/85820516-5a483f00-b7b1-11ea-91ec-3ee22337fb32.png)
+모티브 게임
+![image](https://user-images.githubusercontent.com/65941200/85820492-4dc3e680-b7b1-11ea-8ed7-42075057fe0e.png)
+개발한 게임
 
  - 물고기 키우기 게임을 모티브로하여 제작하였습니다.
 
