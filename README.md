@@ -2,11 +2,11 @@
 
 **[작품 소개]**
 
-###### 모티브 게임
+###### 개발한 게임
 
 <img src="https://user-images.githubusercontent.com/65941200/85821588-ed827400-b7b3-11ea-97b3-334c103cc3c4.png" width="800">
 
-###### 개발한 게임
+######  게임
 
 <img src="https://user-images.githubusercontent.com/65941200/85821606-f7a47280-b7b3-11ea-977d-f8f6f4b46025.png" width="800">
 
