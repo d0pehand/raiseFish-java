@@ -3,6 +3,7 @@
 **[작품 소개]**
 
 ###### 개발한 게임
+https://blog.naver.com/handjangnan/221588457448
 
 <img src="https://user-images.githubusercontent.com/65941200/85821588-ed827400-b7b3-11ea-97b3-334c103cc3c4.png" width="800">
 
